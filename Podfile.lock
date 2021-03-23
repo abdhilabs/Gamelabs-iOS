@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - SDWebImage (~> 5.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: fe2adfa02ad71964661fae9914d1daf476e8a8de
+
+COCOAPODS: 1.10.1
